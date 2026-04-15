@@ -1,0 +1,10 @@
+version: "1.0"
+projectName: TestCommitsLDSGithubProject
+runtimes:
+- runtimeAlias: Cloud Designtime
+  assets:
+  - name: lds_wf
+    type: workflow
+    uid: fl5c472f0e51754525892d2536b73b5312
+    stepId: a0
+    reference: project.testcommitsldsgithub.integrations:gcdLDS1504
